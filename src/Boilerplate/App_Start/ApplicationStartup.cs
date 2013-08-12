@@ -7,7 +7,7 @@ using System.Web.Routing;
 
 using Umbraco.Core;
 
-namespace Radyz.Web
+namespace Boilerplate.Web
 {
     public class ApplicationStartup : IApplicationEventHandler
     {

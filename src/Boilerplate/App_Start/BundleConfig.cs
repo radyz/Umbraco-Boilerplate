@@ -6,7 +6,7 @@ using BundleTransformer.Core.Builders;
 using BundleTransformer.Core.Bundles;
 using BundleTransformer.Core.Orderers;
 
-namespace Radyz.Web
+namespace Boilerplate.Web
 {
     public class BundleConfig
     {

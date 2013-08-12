@@ -2,7 +2,7 @@
 using System.Web;
 using System.Web.Routing;
 
-namespace Radyz.Web
+namespace Boilerplate.Web
 {
     public class RouteConfig
     {

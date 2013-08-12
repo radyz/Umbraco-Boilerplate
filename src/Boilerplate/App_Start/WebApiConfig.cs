@@ -2,7 +2,7 @@
 using System.Web;
 using System.Web.Http;
 
-namespace Radyz.Web
+namespace Boilerplate.Web
 {
     public class WebApiConfig
     {
