@@ -7,9 +7,9 @@ This project runs as a Web Application within Visual Studio. It uses Umbraco v6.
 
 # What it contains
 
-1. Bits of [H5BP](https://github.com/h5bp/html5-boilerplate")
-2. Html minification through [WebMarkupMin]("https://webmarkupmin.codeplex.com/")
-3. Css (Less) and Javascript bundling and minification through [BundleTransformer]("https://bundletransformer.codeplex.com/")
-4. [Elmah]("https://code.google.com/p/elmah/")
+1. Bits of [H5BP](https://github.com/h5bp/html5-boilerplate)
+2. Html minification through [WebMarkupMin](https://webmarkupmin.codeplex.com/)
+3. Css (Less) and Javascript bundling and minification through [BundleTransformer](https://bundletransformer.codeplex.com/)
+4. [Elmah](https://code.google.com/p/elmah/)
 
 
